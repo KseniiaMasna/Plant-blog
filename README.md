@@ -1,4 +1,3 @@
-
 # Plant Blog
 
 Welcome to the Plant Blog project! This project is built using Tailwind CSS and is designed to share information and tips about various plants.
@@ -12,26 +11,28 @@ Welcome to the Plant Blog project! This project is built using Tailwind CSS and 
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/plant-blog.git
-    ```
+   ```bash
+   git clone https://github.com/yourusername/plant-blog.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd plant-blog
-    ```
+   ```bash
+   cd plant-blog
+   ```
 3. Install dependencies:
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
 To start the development server, run:
+
 ```bash
 npm run dev
 ```
 
 To build the project for production, run:
+
 ```bash
 npm run build
 ```
